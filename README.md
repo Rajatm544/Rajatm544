@@ -1,3 +1,3 @@
 # Hello World
 
-<img src="https://media.giphy.com/media/kdpDE8isvrWSRjgApN/giphy.gif" width="500" height="300" />
+![profile](https://miro.medium.com/max/1400/0*lzRmzAy5OICef7rK.png)
