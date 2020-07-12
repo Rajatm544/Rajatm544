@@ -1,3 +1,3 @@
 # Hello World
 
-![profile](./Animated GIF-source.gif)
+![profile](/Animated-GIF-source.gif)
