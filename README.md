@@ -6,4 +6,5 @@ I am a full stack developer with an experience of building applications using th
 
 I am a keen problem solver, and have been working hard at getting better at it. It has been an itch ever since I was introduced to programming with C++, back in the 7th grade. Since then, I have been fascinated with solving coding problems. But ever since I've figured out the way to weave my interests in problem solving with the passion of becoming a software developer, it has been a rewarding endeavour. I am presently looking for opportunities to put this passion to good use, whether it be by working on my personal projects or through the medium of internships.
 
-<i class="fab fa-linkedin"></i>
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="rajat--m"><a class="LI-simple-link" href='https://in.linkedin.com/in/rajat--m?trk=profile-badge'>Rajat M</a></div>
