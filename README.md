@@ -1,3 +1,3 @@
 # Hello World.
 
-<img src="https://media.giphy.com/media/jpKyYfP51kajZ6iZpd/giphy.gif" alt="profile">
+![profile](https://media0.giphy.com/media/jpKyYfP51kajZ6iZpd/giphy.gif)
