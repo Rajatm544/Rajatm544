@@ -7,6 +7,7 @@ I am a full stack developer with an experience of building applications using th
 I am a keen problem solver, and have been working hard at getting better at it. It has been an itch ever since I was introduced to programming, back in the 7th grade. Since then, I have been fascinated with solving coding problems. But ever since I've figured out the way to weave my interests in problem solving with the passion of becoming a software developer, it has been a rewarding endeavour. I am presently looking for opportunities to put this passion to good use, whether it be by working on my personal projects or through the medium of internships.
 
 <p align="center">
+
 [![linkedin][1.1]][1] [![Medium_Blog][1.2]][2] [![Hackerrank][1.3]][3]
 
 [1.1]: https://img.techpowerup.org/200712/linkedin048-60x60.png
