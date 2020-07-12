@@ -8,5 +8,5 @@ I am a keen problem solver, and have been working hard at getting better at it. 
 
 [![linkedin][1.1]][1]
 
-[1.1]: https://img.techpowerup.org/200712/linkedin.png
+[1.1]: https://img.techpowerup.org/200712/linkedin048.png
 [1]: https://www.linkedin.com/in/rajat--m
