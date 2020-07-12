@@ -1,6 +1,6 @@
 # Hi, I'm Rajat
 
-<img src= "https://media.giphy.com/media/XEfobFYazqawdjLt6y/giphy.gif" width="1280" height="720"/>
+<img src= "https://media.giphy.com/media/XEfobFYazqawdjLt6y/giphy.gif" width="640" height="360"/>
 
 I am a full stack developer with an experience of building applications using the MERN stack. I do this because I enjoy the process of solving problems using the code that I write. The possibility of converting an idea from a concept to an actual entity is what excites me the most about software development, and it also serves as a motivation for me to trudge along, and complete a project that I begin.
 
