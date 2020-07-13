@@ -10,7 +10,7 @@ I am a keen problem solver, and have been working hard at getting better at it. 
 
 You can find my profiles below.
 <br><br>
-[![linkedin][1.1]][1] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Medium_Blog][1.2]][2]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Hackerrank][1.3]][3]
+[![linkedin][1.1]][1] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Medium_Blog][1.2]][2]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Hackerrank][1.3]][3]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Mail][1.4][4]]
 
 [1.1]: https://img.techpowerup.org/200712/linkedin048-60x60-1-50x50.png
 [1]: https://www.linkedin.com/in/rajat--m
@@ -18,3 +18,5 @@ You can find my profiles below.
 [2]: https://medium.com/@rajat_m
 [1.3]: https://img.techpowerup.org/200712/hackerrank-60x60-1-50x50.png
 [3]: https://www.hackerrank.com/Rajat_M
+[1.4]: https://img.techpowerup.org/200713/mail-line.png
+[4]: mailto:rajatm544@gmail.com
