@@ -12,9 +12,9 @@ You can find my profiles below.
 <br><br>
 [![linkedin][1.1]][1] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Medium_Blog][1.2]][2]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Hackerrank][1.3]][3]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:rajatm544@gmail"><img src="https://img.techpowerup.org/200713/mail-line.png" /></a>
 
-[1.1]: https://img.techpowerup.org/200712/linkedin048-60x60-1-50x50.png
+[1.1]: https://img.techpowerup.org/200713/linkedin-box-fill-2.png
 [1]: https://www.linkedin.com/in/rajat--m
-[1.2]: https://img.techpowerup.org/200712/medium-60x60-1-50x50.png
+[1.2]: https://img.techpowerup.org/200713/medium-fill.png
 [2]: https://medium.com/@rajat_m
 [1.3]: https://img.techpowerup.org/200712/hackerrank-60x60-1-50x50.png
 [3]: https://www.hackerrank.com/Rajat_M
