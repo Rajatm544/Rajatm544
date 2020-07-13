@@ -12,8 +12,10 @@ You can find my profiles below.
 <br>
 
 <p align="center">
+
 [![linkedin][1.1]][1] [![Medium_Blog][1.2]][2] [![Hackerrank][1.3]][3]
 <a href="mailto:rajatm544@gmail"><img src="https://img.techpowerup.org/200713/gmail36.png" /></a>
+
 </p>
 
 [1.1]: https://img.techpowerup.org/200713/linkedin-box-fill-2.png
