@@ -11,16 +11,10 @@ I am a keen problem solver, and have been working hard at getting better at it. 
 You can find my profiles below.
 <br>
 
-<p align="center">
-
-[![linkedin][1.1]][1] [![Medium_Blog][1.2]][2] [![Hackerrank][1.3]][3]
+[![linkedin][1.1]][1] [![Medium_Blog][1.2]][2]
 <a href="mailto:rajatm544@gmail"><img src="https://img.techpowerup.org/200713/gmail36.png" /></a>
-
-</p>
 
 [1.1]: https://img.techpowerup.org/200713/linkedin-box-fill-2.png
 [1]: https://www.linkedin.com/in/rajat--m
 [1.2]: https://img.techpowerup.org/200713/medium-fill.png
 [2]: https://medium.com/@rajat_m
-[1.3]: https://img.techpowerup.org/200713/hackerrank-icon.png
-[3]: https://www.hackerrank.com/Rajat_M
