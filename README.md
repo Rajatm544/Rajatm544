@@ -19,4 +19,4 @@ You can find my profiles below.
 [1.3]: https://img.techpowerup.org/200712/hackerrank-60x60-1-50x50.png
 [3]: https://www.hackerrank.com/Rajat_M
 [1.4]: https://img.techpowerup.org/200713/mail-line.png
-[4]: mailto:rajatm544@gmail.com
+[4]: mailto:rajatm544@gmail
