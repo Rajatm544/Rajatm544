@@ -22,5 +22,5 @@ You can find my profiles below.
 [1]: https://www.linkedin.com/in/rajat--m
 [1.2]: https://img.techpowerup.org/200713/medium-fill.png
 [2]: https://medium.com/@rajat_m
-[1.3]: https://img.techpowerup.org/200713/hackerrank36.png
+[1.3]: https://img.techpowerup.org/200713/hackerrank-icon-1000px-34x34.png
 [3]: https://www.hackerrank.com/Rajat_M
