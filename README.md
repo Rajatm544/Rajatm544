@@ -10,7 +10,7 @@ I am a keen problem solver, and have been working hard at getting better at it. 
 
 You can find my profiles below.
 <br><br>
-[![linkedin][1.1]][1] &emsp;[![Medium_Blog][1.2]][2]&emsp; [![Hackerrank][1.3]][3]&emsp; <a href="mailto:rajatm544@gmail"><img src="https://img.techpowerup.org/200713/mail-line.png" /></a>
+[![linkedin][1.1]][1] &nbsp;[![Medium_Blog][1.2]][2]&nbsp; [![Hackerrank][1.3]][3]&nbsp; <a href="mailto:rajatm544@gmail"><img src="https://img.techpowerup.org/200713/mail-line.png" /></a>
 
 [1.1]: https://img.techpowerup.org/200713/linkedin-box-fill-2.png
 [1]: https://www.linkedin.com/in/rajat--m
