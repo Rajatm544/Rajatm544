@@ -16,5 +16,6 @@ I am a keen problem solver, and have been working hard at getting better at it. 
 <a href="https://medium.com/@rajat_m"><img src="https://img.techpowerup.org/200715/medium-fill-1.png" /></a>&nbsp;
 <a href="mailto:rajatm544@gmail"><img src="https://img.techpowerup.org/200715/gmail-1.png" /></a>&nbsp;
 <a href="https://www.hackerrank.com/Rajat_M"><img src="https://img.techpowerup.org/200715/hackerrank-logo-1500.png" /></a>
+<a href="https://twitter.com/Rajat__m"><img src="https://img.techpowerup.org/200715/twitter-fill.png" /></a>
 
 </span>
