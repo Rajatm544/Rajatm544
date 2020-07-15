@@ -10,6 +10,6 @@ I am a keen problem solver, and have been working hard at getting better at it. 
 
 You can find my profiles below.
 
-<a href="https://www.linkedin.com/in/rajat--m"><img src="https://img.techpowerup.org/200713linkedin-box-fill-2.png" /></a>
+<a href="https://www.linkedin.com/in/rajat--m"><img src="https://img.techpowerup.org/200713/linkedin-box-fill-2.png" /></a>
 <a href="https://medium.com/@rajat_m"><img src="https://img.techpowerup.org/200713/medium-fill.png" /></a>
 <a href="mailto:rajatm544@gmail"><img src="https://img.techpowerup.org/200713/gmail36.png" /></a>
