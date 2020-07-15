@@ -17,4 +17,3 @@ I am a keen problem solver, and have been working hard at getting better at it. 
 <a href="mailto:rajatm544@gmail"><img src="https://img.techpowerup.org/200713/gmail36.png" /></a>
 
 </span>
-                                                
