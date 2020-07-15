@@ -1,0 +1,35 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+#particles-js {
+    /* background-color: #214FC6; */
+    background-color: #101018;
+    height: 800px;
+    width: 100%;
+
+}
+
+#typewriter {
+    position: fixed;
+    font-size: 65px;
+    font-family: 'Marmelad', sans-serif;
+    font-weight: 800;
+    width: 90%;
+    margin: 15% 10%;
+    /* color: white; */
+    color: #eaefff;
+    text-shadow: -2px 0 #C30F34,
+        0 2px #C30F34,
+        2px 0 #C30F34,
+        0 -2px #C30F34;
+    text-shadow: -4px 0 #950740,
+        0 4px #950740,
+        4px 0 #950740,
+        0 -4px #950740;
+
+}
