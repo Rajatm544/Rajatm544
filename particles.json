@@ -1,10 +1,10 @@
 {
     "particles": {
         "number": {
-            "value": 300,
+            "value": 200,
             "density": {
                 "enable": true,
-                "value_area": 800
+                "value_area": 900
             }
         },
         "color": {
@@ -13,12 +13,9 @@
         "shape": {
             "type": "circle",
             "stroke": {
-                "width": 2,
+                "width": 3,
                 "color": "#f2f3f6"
             }
-        },
-        "polygon": {
-            "nb_sides": 5
         },
         "opacity": {
             "value": 1,
@@ -56,9 +53,7 @@
             "out_mode": "out",
             "bounce": false,
             "attract": {
-                "enable": true,
-                "rotateX": 1200,
-                "rotateY": 1200
+                "enable": true
             }
         }
     }

@@ -1,12 +1,13 @@
-# Hi, I'm Rajat
-
 <p align="center">
-<img src= "https://media.giphy.com/media/XEfobFYazqawdjLt6y/giphy.gif" width="640" height="360"/>
+<img src= "https://media.giphy.com/media/H5B31BSZhQoes8QoVH/giphy.gif" width="700" height="450" />
 </p>
 
-I am a full stack developer with an experience of building applications using the MERN stack. The possibility of converting an idea to an actual entity, is what excites me the most about software development, and it serves as a motivation for me to trudge along and complete a project that I begin!
-
-I am a keen problem solver, and have been working hard at getting better at it. Ever since I've figured out the way to weave my interests in problem solving with the passion of becoming a software developer, it has been quite a rewarding endeavour. I am presently looking for opportunities to put this passion to good use, by working on my personal projects.
+-   I am a full stack developer.
+-   I also enjoy writing. I post about stuff related to web development on [my blog](https://medium.com/@rajat_m) on a regular basis.
+-   I have experience building applications using the MERN stack, and have spent a good chunk of time working in React!
+-   Here's a preview of my github stats
+    ![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=Rajatm544&show_icons=true&theme=radical)
+-   Check out some of my projects and feel free to reach out to me using the social links below!
 
 ##
 

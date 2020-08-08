@@ -19,10 +19,9 @@ body {
     font-size: 65px;
     font-family: 'Marmelad', sans-serif;
     font-weight: 800;
-    width: 90%;
-    margin: 15% 10%;
-    /* color: white; */
-    color: #eaefff;
+    width: 100%;
+    top: 30%;
+    color: white;
     text-shadow: -2px 0 #C30F34,
         0 2px #C30F34,
         2px 0 #C30F34,
