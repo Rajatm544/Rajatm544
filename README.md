@@ -15,7 +15,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatm544&layout=compact&theme=radical" width="494" />
     </p>
 
--   **Check out some of my projects and feel free to reach out to me using the social links below!**
+-   **Check out some of my projects and reach out to me using the links below!**
 
 ##
 
