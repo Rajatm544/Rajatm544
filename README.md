@@ -6,7 +6,9 @@
 -   I also enjoy writing. I post about stuff related to web development on [my blog](https://medium.com/@rajat_m) on a regular basis.
 -   I have experience building applications using the MERN stack, and have spent a good chunk of time working in React!
 -   Here's a preview of my github stats
+
     ![Rajat's github stats](https://github-readme-stats.vercel.app/api?username=Rajatm544&show_icons=true&theme=radical)
+
 -   Check out some of my projects and feel free to reach out to me using the social links below!
 
 ##
