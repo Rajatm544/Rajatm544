@@ -6,14 +6,8 @@
 
 -   **I am a full stack developer.**
 -   **I also enjoy writing. I regularly post articles about stuff related to web development on [my blog](https://medium.com/@rajat_m)**
-
-## Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 -   **I have experience building applications using the MERN stack, and have spent a good chunk of time working in React!**
--   **Here's a preview of my github stats**
+-   **Here are some of my github stats**
 
     <p align="center">
     <img src = "https://github-readme-stats.vercel.app/api?username=Rajatm544&show_icons=true&theme=radical" />
