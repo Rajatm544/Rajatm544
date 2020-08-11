@@ -1,7 +1,7 @@
 # :wave: Welcome to my Github Profile!
 
 <p align="center">
-<img src= "https://media.giphy.com/media/H5B31BSZhQoes8QoVH/giphy.gif" width="700" height="450" />
+<img src= "https://media.giphy.com/media/H5B31BSZhQoes8QoVH/giphy.gif" width="600" height="350" />
 </p>
 
 -   **I am a full stack developer.**
