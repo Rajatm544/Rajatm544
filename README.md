@@ -16,9 +16,9 @@
 **Here are some of my github stats**
 
 <p align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=Rajatm544&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatm544&layout=compact&theme=radical" width="494" />
+<img src = "https://github-readme-stats.vercel.app/api?username=Rajatm544&show_icons=true&theme=radical"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatm544&layout=compact&theme=radical" width="494"/>
 </p>
 
 **Check out some of my projects and reach out to me using the links below!**
