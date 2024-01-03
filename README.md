@@ -11,7 +11,7 @@
 
 **I also have the experience of building Progressive Web Applications.**
 
-**I also enjoy writing. I regularly post articles about stuff related to web development on [my blog](https://medium.com/@rajat_m).**
+**I also enjoy writing. I regularly post articles about stuff related to web development on [my blog](https://medium.com/@rajat-m).**
 
 **Here are some of my github stats**
 
