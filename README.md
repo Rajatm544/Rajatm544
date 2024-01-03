@@ -27,10 +27,10 @@
 
 <span align="center">
  
-<a href="https://www.linkedin.com/in/rajat--m"><img src="https://img.techpowerup.org/200715/linkedin-box-fill-1.png"></a>
-<a href="https://medium.com/@rajat_m"><img src="https://img.techpowerup.org/200715/medium-fill-1.png"></a>&nbsp;
-<a href="mailto:rajatm544@gmail"><img src="https://img.techpowerup.org/200715/gmail-1.png"></a>&nbsp;
-<a href="https://www.hackerrank.com/Rajat_M"><img src="https://img.techpowerup.org/200715/hackerrank-logo-1500.png"></a>
-<a href="https://twitter.com/Rajat__m"><img src="https://img.techpowerup.org/200715/twitter-fill.png"></a>
+<a href="https://www.linkedin.com/in/rajat--m"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" width="25px" height="25px"></a>
+<a href="https://medium.com/@rajat-m"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Medium_colored_svg-512.png" width="25px" height="25px"></a>&nbsp;
+<a href="mailto:rajat.mandar@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="25px" height="25px"></a>&nbsp;
+<a href="https://www.hackerrank.com/Rajat_M"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-1024.png" width="25px" height="25px"></a>&nbsp;
+<a href="https://twitter.com/Rajat__m"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" width="25px" height="25px"></a>
 
 </span>
